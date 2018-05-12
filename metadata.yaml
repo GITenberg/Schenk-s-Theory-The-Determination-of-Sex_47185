@@ -1,10 +1,16 @@
 _repo: Schenk-s-Theory-The-Determination-of-Sex_47185
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47185-h/images/cover.jpg
 creator:
   author:
     agent_name: Schenk, Samuel Leopold
     gutenberg_agent_id: '44175'
     url: http://www.gutenberg.org/2009/agents/44175
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47185#Schenk-s-Theory-The-Determination-of-Sex
 gutenberg_issued: '2014-10-24'
 gutenberg_type: Text
 identifiers:
